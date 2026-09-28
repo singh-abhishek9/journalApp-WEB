@@ -4,7 +4,6 @@ function Header() {
   return (
     <header style={styles.header}>
       <h1 style={styles.brand}>JournalApp</h1>
-
       <nav style={styles.nav}>
         <a href="/" style={styles.link}>Home</a>
         <a href="/journal" style={styles.link}>Journal</a>
